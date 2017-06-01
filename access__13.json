@@ -1,0 +1,1017 @@
+[
+  {
+    "PUMA": "00100",
+    "yes": "1111",
+    "no": "38",
+    "yes but not paying": "439",
+    "All": "1588"
+  },
+  {
+    "PUMA": "00200",
+    "yes": "1772",
+    "no": "78",
+    "yes but not paying": "419",
+    "All": "2269"
+  },
+  {
+    "PUMA": "00300",
+    "yes": "1295",
+    "no": "64",
+    "yes but not paying": "260",
+    "All": "1619"
+  },
+  {
+    "PUMA": "00401",
+    "yes": "1308",
+    "no": "59",
+    "yes but not paying": "326",
+    "All": "1693"
+  },
+  {
+    "PUMA": "00402",
+    "yes": "1175",
+    "no": "75",
+    "yes but not paying": "258",
+    "All": "1508"
+  },
+  {
+    "PUMA": "00403",
+    "yes": "1768",
+    "no": "76",
+    "yes but not paying": "405",
+    "All": "2249"
+  },
+  {
+    "PUMA": "00500",
+    "yes": "1756",
+    "no": "107",
+    "yes but not paying": "309",
+    "All": "2172"
+  },
+  {
+    "PUMA": "00600",
+    "yes": "1224",
+    "no": "67",
+    "yes but not paying": "248",
+    "All": "1539"
+  },
+  {
+    "PUMA": "00701",
+    "yes": "1069",
+    "no": "60",
+    "yes but not paying": "359",
+    "All": "1488"
+  },
+  {
+    "PUMA": "00702",
+    "yes": "1088",
+    "no": "31",
+    "yes but not paying": "91",
+    "All": "1210"
+  },
+  {
+    "PUMA": "00703",
+    "yes": "1528",
+    "no": "53",
+    "yes but not paying": "214",
+    "All": "1795"
+  },
+  {
+    "PUMA": "00704",
+    "yes": "1535",
+    "no": "64",
+    "yes but not paying": "301",
+    "All": "1900"
+  },
+  {
+    "PUMA": "00800",
+    "yes": "1231",
+    "no": "83",
+    "yes but not paying": "326",
+    "All": "1640"
+  },
+  {
+    "PUMA": "00901",
+    "yes": "1043",
+    "no": "40",
+    "yes but not paying": "149",
+    "All": "1232"
+  },
+  {
+    "PUMA": "00902",
+    "yes": "743",
+    "no": "50",
+    "yes but not paying": "340",
+    "All": "1133"
+  },
+  {
+    "PUMA": "00903",
+    "yes": "494",
+    "no": "58",
+    "yes but not paying": "260",
+    "All": "812"
+  },
+  {
+    "PUMA": "00904",
+    "yes": "911",
+    "no": "17",
+    "yes but not paying": "119",
+    "All": "1047"
+  },
+  {
+    "PUMA": "00905",
+    "yes": "903",
+    "no": "14",
+    "yes but not paying": "78",
+    "All": "995"
+  },
+  {
+    "PUMA": "00906",
+    "yes": "1310",
+    "no": "40",
+    "yes but not paying": "93",
+    "All": "1443"
+  },
+  {
+    "PUMA": "01000",
+    "yes": "1122",
+    "no": "50",
+    "yes but not paying": "250",
+    "All": "1422"
+  },
+  {
+    "PUMA": "01101",
+    "yes": "779",
+    "no": "40",
+    "yes but not paying": "219",
+    "All": "1038"
+  },
+  {
+    "PUMA": "01102",
+    "yes": "863",
+    "no": "28",
+    "yes but not paying": "170",
+    "All": "1061"
+  },
+  {
+    "PUMA": "01201",
+    "yes": "791",
+    "no": "19",
+    "yes but not paying": "105",
+    "All": "915"
+  },
+  {
+    "PUMA": "01202",
+    "yes": "931",
+    "no": "9",
+    "yes but not paying": "107",
+    "All": "1047"
+  },
+  {
+    "PUMA": "01203",
+    "yes": "822",
+    "no": "24",
+    "yes but not paying": "94",
+    "All": "940"
+  },
+  {
+    "PUMA": "01204",
+    "yes": "1268",
+    "no": "43",
+    "yes but not paying": "266",
+    "All": "1577"
+  },
+  {
+    "PUMA": "01205",
+    "yes": "815",
+    "no": "64",
+    "yes but not paying": "350",
+    "All": "1229"
+  },
+  {
+    "PUMA": "01206",
+    "yes": "724",
+    "no": "85",
+    "yes but not paying": "144",
+    "All": "953"
+  },
+  {
+    "PUMA": "01207",
+    "yes": "1422",
+    "no": "59",
+    "yes but not paying": "187",
+    "All": "1668"
+  },
+  {
+    "PUMA": "01300",
+    "yes": "1303",
+    "no": "91",
+    "yes but not paying": "269",
+    "All": "1663"
+  },
+  {
+    "PUMA": "01400",
+    "yes": "1393",
+    "no": "56",
+    "yes but not paying": "307",
+    "All": "1756"
+  },
+  {
+    "PUMA": "01500",
+    "yes": "1378",
+    "no": "52",
+    "yes but not paying": "295",
+    "All": "1725"
+  },
+  {
+    "PUMA": "01600",
+    "yes": "1129",
+    "no": "45",
+    "yes but not paying": "276",
+    "All": "1450"
+  },
+  {
+    "PUMA": "01700",
+    "yes": "1187",
+    "no": "61",
+    "yes but not paying": "220",
+    "All": "1468"
+  },
+  {
+    "PUMA": "01801",
+    "yes": "764",
+    "no": "24",
+    "yes but not paying": "97",
+    "All": "885"
+  },
+  {
+    "PUMA": "01802",
+    "yes": "1099",
+    "no": "32",
+    "yes but not paying": "140",
+    "All": "1271"
+  },
+  {
+    "PUMA": "01900",
+    "yes": "1348",
+    "no": "67",
+    "yes but not paying": "183",
+    "All": "1598"
+  },
+  {
+    "PUMA": "02001",
+    "yes": "572",
+    "no": "41",
+    "yes but not paying": "120",
+    "All": "733"
+  },
+  {
+    "PUMA": "02002",
+    "yes": "1671",
+    "no": "50",
+    "yes but not paying": "165",
+    "All": "1886"
+  },
+  {
+    "PUMA": "02100",
+    "yes": "1117",
+    "no": "59",
+    "yes but not paying": "201",
+    "All": "1377"
+  },
+  {
+    "PUMA": "02201",
+    "yes": "926",
+    "no": "34",
+    "yes but not paying": "155",
+    "All": "1115"
+  },
+  {
+    "PUMA": "02202",
+    "yes": "1159",
+    "no": "54",
+    "yes but not paying": "197",
+    "All": "1410"
+  },
+  {
+    "PUMA": "02203",
+    "yes": "1451",
+    "no": "73",
+    "yes but not paying": "338",
+    "All": "1862"
+  },
+  {
+    "PUMA": "02300",
+    "yes": "699",
+    "no": "33",
+    "yes but not paying": "73",
+    "All": "805"
+  },
+  {
+    "PUMA": "02401",
+    "yes": "868",
+    "no": "17",
+    "yes but not paying": "174",
+    "All": "1059"
+  },
+  {
+    "PUMA": "02402",
+    "yes": "1609",
+    "no": "85",
+    "yes but not paying": "488",
+    "All": "2182"
+  },
+  {
+    "PUMA": "02500",
+    "yes": "2035",
+    "no": "105",
+    "yes but not paying": "725",
+    "All": "2865"
+  },
+  {
+    "PUMA": "02600",
+    "yes": "1482",
+    "no": "57",
+    "yes but not paying": "428",
+    "All": "1967"
+  },
+  {
+    "PUMA": "02701",
+    "yes": "869",
+    "no": "44",
+    "yes but not paying": "173",
+    "All": "1086"
+  },
+  {
+    "PUMA": "02702",
+    "yes": "1060",
+    "no": "39",
+    "yes but not paying": "150",
+    "All": "1249"
+  },
+  {
+    "PUMA": "02801",
+    "yes": "1262",
+    "no": "35",
+    "yes but not paying": "109",
+    "All": "1406"
+  },
+  {
+    "PUMA": "02802",
+    "yes": "1345",
+    "no": "56",
+    "yes but not paying": "147",
+    "All": "1548"
+  },
+  {
+    "PUMA": "02901",
+    "yes": "860",
+    "no": "29",
+    "yes but not paying": "108",
+    "All": "997"
+  },
+  {
+    "PUMA": "02902",
+    "yes": "1074",
+    "no": "40",
+    "yes but not paying": "123",
+    "All": "1237"
+  },
+  {
+    "PUMA": "02903",
+    "yes": "914",
+    "no": "35",
+    "yes but not paying": "289",
+    "All": "1238"
+  },
+  {
+    "PUMA": "03001",
+    "yes": "888",
+    "no": "36",
+    "yes but not paying": "56",
+    "All": "980"
+  },
+  {
+    "PUMA": "03002",
+    "yes": "792",
+    "no": "48",
+    "yes but not paying": "72",
+    "All": "912"
+  },
+  {
+    "PUMA": "03003",
+    "yes": "703",
+    "no": "79",
+    "yes but not paying": "440",
+    "All": "1222"
+  },
+  {
+    "PUMA": "03101",
+    "yes": "845",
+    "no": "25",
+    "yes but not paying": "53",
+    "All": "923"
+  },
+  {
+    "PUMA": "03102",
+    "yes": "1139",
+    "no": "48",
+    "yes but not paying": "142",
+    "All": "1329"
+  },
+  {
+    "PUMA": "03103",
+    "yes": "1119",
+    "no": "25",
+    "yes but not paying": "71",
+    "All": "1215"
+  },
+  {
+    "PUMA": "03104",
+    "yes": "842",
+    "no": "6",
+    "yes but not paying": "80",
+    "All": "928"
+  },
+  {
+    "PUMA": "03105",
+    "yes": "1426",
+    "no": "42",
+    "yes but not paying": "126",
+    "All": "1594"
+  },
+  {
+    "PUMA": "03106",
+    "yes": "1239",
+    "no": "103",
+    "yes but not paying": "177",
+    "All": "1519"
+  },
+  {
+    "PUMA": "03107",
+    "yes": "1444",
+    "no": "53",
+    "yes but not paying": "174",
+    "All": "1671"
+  },
+  {
+    "PUMA": "03201",
+    "yes": "1334",
+    "no": "68",
+    "yes but not paying": "70",
+    "All": "1472"
+  },
+  {
+    "PUMA": "03202",
+    "yes": "1301",
+    "no": "42",
+    "yes but not paying": "69",
+    "All": "1412"
+  },
+  {
+    "PUMA": "03203",
+    "yes": "908",
+    "no": "34",
+    "yes but not paying": "59",
+    "All": "1001"
+  },
+  {
+    "PUMA": "03204",
+    "yes": "1036",
+    "no": "27",
+    "yes but not paying": "118",
+    "All": "1181"
+  },
+  {
+    "PUMA": "03205",
+    "yes": "1037",
+    "no": "32",
+    "yes but not paying": "98",
+    "All": "1167"
+  },
+  {
+    "PUMA": "03206",
+    "yes": "1000",
+    "no": "43",
+    "yes but not paying": "111",
+    "All": "1154"
+  },
+  {
+    "PUMA": "03207",
+    "yes": "956",
+    "no": "9",
+    "yes but not paying": "75",
+    "All": "1040"
+  },
+  {
+    "PUMA": "03208",
+    "yes": "1137",
+    "no": "14",
+    "yes but not paying": "77",
+    "All": "1228"
+  },
+  {
+    "PUMA": "03209",
+    "yes": "878",
+    "no": "36",
+    "yes but not paying": "66",
+    "All": "980"
+  },
+  {
+    "PUMA": "03210",
+    "yes": "890",
+    "no": "23",
+    "yes but not paying": "43",
+    "All": "956"
+  },
+  {
+    "PUMA": "03211",
+    "yes": "798",
+    "no": "20",
+    "yes but not paying": "83",
+    "All": "901"
+  },
+  {
+    "PUMA": "03212",
+    "yes": "877",
+    "no": "16",
+    "yes but not paying": "66",
+    "All": "959"
+  },
+  {
+    "PUMA": "03301",
+    "yes": "938",
+    "no": "59",
+    "yes but not paying": "37",
+    "All": "1034"
+  },
+  {
+    "PUMA": "03302",
+    "yes": "947",
+    "no": "20",
+    "yes but not paying": "37",
+    "All": "1004"
+  },
+  {
+    "PUMA": "03303",
+    "yes": "1173",
+    "no": "48",
+    "yes but not paying": "48",
+    "All": "1269"
+  },
+  {
+    "PUMA": "03304",
+    "yes": "997",
+    "no": "16",
+    "yes but not paying": "38",
+    "All": "1051"
+  },
+  {
+    "PUMA": "03305",
+    "yes": "1116",
+    "no": "31",
+    "yes but not paying": "132",
+    "All": "1279"
+  },
+  {
+    "PUMA": "03306",
+    "yes": "1011",
+    "no": "38",
+    "yes but not paying": "69",
+    "All": "1118"
+  },
+  {
+    "PUMA": "03307",
+    "yes": "749",
+    "no": "10",
+    "yes but not paying": "59",
+    "All": "818"
+  },
+  {
+    "PUMA": "03308",
+    "yes": "1024",
+    "no": "32",
+    "yes but not paying": "53",
+    "All": "1109"
+  },
+  {
+    "PUMA": "03309",
+    "yes": "920",
+    "no": "26",
+    "yes but not paying": "69",
+    "All": "1015"
+  },
+  {
+    "PUMA": "03310",
+    "yes": "849",
+    "no": "41",
+    "yes but not paying": "151",
+    "All": "1041"
+  },
+  {
+    "PUMA": "03311",
+    "yes": "899",
+    "no": "55",
+    "yes but not paying": "64",
+    "All": "1018"
+  },
+  {
+    "PUMA": "03312",
+    "yes": "837",
+    "no": "20",
+    "yes but not paying": "93",
+    "All": "950"
+  },
+  {
+    "PUMA": "03313",
+    "yes": "787",
+    "no": "27",
+    "yes but not paying": "107",
+    "All": "921"
+  },
+  {
+    "PUMA": "03701",
+    "yes": "673",
+    "no": "30",
+    "yes but not paying": "98",
+    "All": "801"
+  },
+  {
+    "PUMA": "03702",
+    "yes": "860",
+    "no": "34",
+    "yes but not paying": "169",
+    "All": "1063"
+  },
+  {
+    "PUMA": "03703",
+    "yes": "535",
+    "no": "25",
+    "yes but not paying": "93",
+    "All": "653"
+  },
+  {
+    "PUMA": "03704",
+    "yes": "873",
+    "no": "35",
+    "yes but not paying": "194",
+    "All": "1102"
+  },
+  {
+    "PUMA": "03705",
+    "yes": "852",
+    "no": "87",
+    "yes but not paying": "253",
+    "All": "1192"
+  },
+  {
+    "PUMA": "03706",
+    "yes": "515",
+    "no": "70",
+    "yes but not paying": "163",
+    "All": "748"
+  },
+  {
+    "PUMA": "03707",
+    "yes": "705",
+    "no": "60",
+    "yes but not paying": "182",
+    "All": "947"
+  },
+  {
+    "PUMA": "03708",
+    "yes": "694",
+    "no": "54",
+    "yes but not paying": "157",
+    "All": "905"
+  },
+  {
+    "PUMA": "03709",
+    "yes": "969",
+    "no": "91",
+    "yes but not paying": "275",
+    "All": "1335"
+  },
+  {
+    "PUMA": "03710",
+    "yes": "776",
+    "no": "66",
+    "yes but not paying": "240",
+    "All": "1082"
+  },
+  {
+    "PUMA": "03801",
+    "yes": "873",
+    "no": "29",
+    "yes but not paying": "223",
+    "All": "1125"
+  },
+  {
+    "PUMA": "03802",
+    "yes": "517",
+    "no": "28",
+    "yes but not paying": "94",
+    "All": "639"
+  },
+  {
+    "PUMA": "03803",
+    "yes": "600",
+    "no": "28",
+    "yes but not paying": "185",
+    "All": "813"
+  },
+  {
+    "PUMA": "03804",
+    "yes": "483",
+    "no": "22",
+    "yes but not paying": "151",
+    "All": "656"
+  },
+  {
+    "PUMA": "03805",
+    "yes": "984",
+    "no": "34",
+    "yes but not paying": "49",
+    "All": "1067"
+  },
+  {
+    "PUMA": "03806",
+    "yes": "709",
+    "no": "36",
+    "yes but not paying": "47",
+    "All": "792"
+  },
+  {
+    "PUMA": "03807",
+    "yes": "818",
+    "no": "20",
+    "yes but not paying": "47",
+    "All": "885"
+  },
+  {
+    "PUMA": "03808",
+    "yes": "575",
+    "no": "10",
+    "yes but not paying": "29",
+    "All": "614"
+  },
+  {
+    "PUMA": "03809",
+    "yes": "635",
+    "no": "37",
+    "yes but not paying": "195",
+    "All": "867"
+  },
+  {
+    "PUMA": "03810",
+    "yes": "902",
+    "no": "24",
+    "yes but not paying": "39",
+    "All": "965"
+  },
+  {
+    "PUMA": "03901",
+    "yes": "1189",
+    "no": "35",
+    "yes but not paying": "96",
+    "All": "1320"
+  },
+  {
+    "PUMA": "03902",
+    "yes": "1030",
+    "no": "50",
+    "yes but not paying": "137",
+    "All": "1217"
+  },
+  {
+    "PUMA": "03903",
+    "yes": "1244",
+    "no": "71",
+    "yes but not paying": "187",
+    "All": "1502"
+  },
+  {
+    "PUMA": "04001",
+    "yes": "883",
+    "no": "16",
+    "yes but not paying": "426",
+    "All": "1325"
+  },
+  {
+    "PUMA": "04002",
+    "yes": "825",
+    "no": "44",
+    "yes but not paying": "208",
+    "All": "1077"
+  },
+  {
+    "PUMA": "04003",
+    "yes": "715",
+    "no": "57",
+    "yes but not paying": "380",
+    "All": "1152"
+  },
+  {
+    "PUMA": "04004",
+    "yes": "1050",
+    "no": "34",
+    "yes but not paying": "144",
+    "All": "1228"
+  },
+  {
+    "PUMA": "04005",
+    "yes": "980",
+    "no": "36",
+    "yes but not paying": "55",
+    "All": "1071"
+  },
+  {
+    "PUMA": "04006",
+    "yes": "698",
+    "no": "49",
+    "yes but not paying": "259",
+    "All": "1006"
+  },
+  {
+    "PUMA": "04007",
+    "yes": "704",
+    "no": "30",
+    "yes but not paying": "262",
+    "All": "996"
+  },
+  {
+    "PUMA": "04008",
+    "yes": "1022",
+    "no": "56",
+    "yes but not paying": "277",
+    "All": "1355"
+  },
+  {
+    "PUMA": "04009",
+    "yes": "1951",
+    "no": "83",
+    "yes but not paying": "241",
+    "All": "2275"
+  },
+  {
+    "PUMA": "04010",
+    "yes": "1034",
+    "no": "57",
+    "yes but not paying": "201",
+    "All": "1292"
+  },
+  {
+    "PUMA": "04011",
+    "yes": "653",
+    "no": "31",
+    "yes but not paying": "145",
+    "All": "829"
+  },
+  {
+    "PUMA": "04012",
+    "yes": "1086",
+    "no": "61",
+    "yes but not paying": "152",
+    "All": "1299"
+  },
+  {
+    "PUMA": "04013",
+    "yes": "1176",
+    "no": "50",
+    "yes but not paying": "164",
+    "All": "1390"
+  },
+  {
+    "PUMA": "04014",
+    "yes": "896",
+    "no": "78",
+    "yes but not paying": "691",
+    "All": "1665"
+  },
+  {
+    "PUMA": "04015",
+    "yes": "1117",
+    "no": "87",
+    "yes but not paying": "254",
+    "All": "1458"
+  },
+  {
+    "PUMA": "04016",
+    "yes": "1367",
+    "no": "45",
+    "yes but not paying": "244",
+    "All": "1656"
+  },
+  {
+    "PUMA": "04017",
+    "yes": "1518",
+    "no": "40",
+    "yes but not paying": "340",
+    "All": "1898"
+  },
+  {
+    "PUMA": "04018",
+    "yes": "664",
+    "no": "23",
+    "yes but not paying": "221",
+    "All": "908"
+  },
+  {
+    "PUMA": "04101",
+    "yes": "1506",
+    "no": "57",
+    "yes but not paying": "225",
+    "All": "1788"
+  },
+  {
+    "PUMA": "04102",
+    "yes": "995",
+    "no": "67",
+    "yes but not paying": "274",
+    "All": "1336"
+  },
+  {
+    "PUMA": "04103",
+    "yes": "1720",
+    "no": "47",
+    "yes but not paying": "367",
+    "All": "2134"
+  },
+  {
+    "PUMA": "04104",
+    "yes": "1138",
+    "no": "17",
+    "yes but not paying": "111",
+    "All": "1266"
+  },
+  {
+    "PUMA": "04105",
+    "yes": "1689",
+    "no": "42",
+    "yes but not paying": "242",
+    "All": "1973"
+  },
+  {
+    "PUMA": "04106",
+    "yes": "1031",
+    "no": "51",
+    "yes but not paying": "151",
+    "All": "1233"
+  },
+  {
+    "PUMA": "04107",
+    "yes": "788",
+    "no": "28",
+    "yes but not paying": "163",
+    "All": "979"
+  },
+  {
+    "PUMA": "04108",
+    "yes": "873",
+    "no": "10",
+    "yes but not paying": "116",
+    "All": "999"
+  },
+  {
+    "PUMA": "04109",
+    "yes": "962",
+    "no": "37",
+    "yes but not paying": "111",
+    "All": "1110"
+  },
+  {
+    "PUMA": "04110",
+    "yes": "1470",
+    "no": "54",
+    "yes but not paying": "310",
+    "All": "1834"
+  },
+  {
+    "PUMA": "04111",
+    "yes": "1475",
+    "no": "59",
+    "yes but not paying": "229",
+    "All": "1763"
+  },
+  {
+    "PUMA": "04112",
+    "yes": "1876",
+    "no": "89",
+    "yes but not paying": "390",
+    "All": "2355"
+  },
+  {
+    "PUMA": "04113",
+    "yes": "1083",
+    "no": "18",
+    "yes but not paying": "182",
+    "All": "1283"
+  },
+  {
+    "PUMA": "04114",
+    "yes": "576",
+    "no": "23",
+    "yes but not paying": "128",
+    "All": "727"
+  }
+]
