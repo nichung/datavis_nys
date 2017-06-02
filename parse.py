@@ -1,19 +1,22 @@
 """
 CSV parser
 
-parse data from a CSV file and render it in JSON
+1. run script with file_name parameter
+2. parse data from a CSV file and render it in JSON
 """
+
+from sys import argv
 
 import csv
 
-
 # describe full path to CSV file
-# todo: make so user can pass filename from command line as parameter
-file_name = "data/cb_2013/ny_13.csv"
+# file_name = "data/cb_2013/ny_13.csv"
 
+# unpack argv and assign to following variables
+script, file_name = argv
 
 def parse(raw_file, delimiter):
-    """parse raw CSV file to JSON-like object"""
+    """parse raw CSV file to JSON object"""
 
     # open file to prep for safe close when done
     open_file = open(raw_file)
@@ -45,7 +48,6 @@ def main():
     new_data = parse(file_name, ",")
 
     # open the output file in write mode
-    # todo: call the file name passed as parameter here too
     new_file = open("new_file.txt", "w")
 
     # print lines to file
