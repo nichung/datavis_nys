@@ -8,4 +8,5 @@ JSON and d3 elements based on Mike Bostock's Command Line Cartography
 + JSON transformation with TopoJSON and ndjson-cli
 + Visualization with d3-geo
 
-
+### todo:
++ integrate NYU's modified PUMAs to account for land-based boundaries
