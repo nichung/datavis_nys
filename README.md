@@ -9,6 +9,7 @@ JSON and d3 elements based on Mike Bostock's Command Line Cartography
 + Visualization with d3-geo
 
 ### todo:
++ **find or make NYC PUMAs with 'ALAND/ALAND10' (land area) & adjust project (geoConicConformal) if necessary**
 + integrate NYU's modified PUMAs to account for land-based boundaries
 
 ### generate geojson in prep for d3:
@@ -18,10 +19,10 @@ JSON and d3 elements based on Mike Bostock's Command Line Cartography
 4. inspect JSON-style object for formatting; use 'sed' command to remove trailing commas and save file as .ndjson
 5. join data to geometry using 'ndjson-join' along 'd.id'
 6. compute population density using 'ndjson-map' with constant '2589975.2356' to convert land area from m^2 to mi^2
-	a. convert resulting ndjson object back to geoJSON using 'ndjson-reduce' as FeaturesCollection to test
+	- convert resulting ndjson object back to geoJSON using 'ndjson-reduce' as FeaturesCollection to test
 8. use 'ndjson-map' with d3 parameters to iterate and fine-tune the appropriate color scheme 
 9. convert resulting ndjson object back to geoJSON and/or svg
 10. move on to choropleh refinement:
-	a. is population uniformly distributed?
-	b. is color encoding effective in showing data?
-	c. title, key, additional geographic cues?
+	- is population uniformly distributed?
+	- is color encoding effective in showing data?
+	- title, key, additional geographic cues?
