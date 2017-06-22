@@ -5,24 +5,24 @@
 			u'coordinates': [[
 				[-73.95870699999999, 40.650386999999995],
       				[-73.94957099999999, 40.650807],
-      				[-73.95006599999999, 40.655423],
       				[-73.95825599999999, 40.648531999999996],
       				[-73.95870699999999, 40.650386999999995]]
 			],
     			u'type': u'Polygon'
 		},
-	u'properties': {
-		u'AFFgeoid10': u'7950000US3604010',
-		u'ALAND10': 7975711,
-    		u'AWATER10': 0,
-    		u'LSAD10': u'P0',
-    		u'NAME10': u'NYC-Brooklyn Community District 17--East Flatbush, Farragut & Rugby',
-    		u'STATEFP10': u'36',
-    		u'geoid10': u'3604010',
-    		u'pumace10': u'04010'
-	},
-   	u'type': u'Feature'
-	},
+		u'properties': {
+			u'AFFgeoid10': u'7950000US3604010',
+			u'ALAND10': 7975711, 
+    			u'AWATER10': 0,
+    			u'LSAD10': u'P0',
+    			u'NAME10': u'NYC-Brooklyn Community District 17--East Flatbush, Farragut & Rugby',
+    			u'STATEFP10': u'36',
+    			u'geoid10': u'3604010',
+    			u'pumace10': u'04010'
+		},
+   		u'type': u'Feature'
+	}],
+ 	u'type': u'FeatureCollection'
 }
 
 {
@@ -32,22 +32,20 @@
 			u'coordinates': [[[
 				[986450.4858028748, 203647.59750692078],
        				[986409.4773426198, 203497.8537981628],
-       				[986377.0580412274, 203380.53637140052],
-       				[986300.026550627, 203098.9019440751],
-       				[986296.1471604555, 203085.42137354714],
        				[986165.6318922277, 202619.0672154082],
        				[976856.663963466, 189102.01831911856]
 			]]],
     			u'type': u'MultiPolygon'
 		},
-   	u'properties': {
-		u'bcode': u'36061',
-    		u'cd': u'1 & 2',
-    		u'geoid10': u'3603810',
-    		u'name': u'Battery Park City, Greenwich Village & Soho',
-    		u'namelsad10': u'NYC-Manhattan Community District 1 & 2--Battery Park City, Greenwich Village & Soho PUMA',
-    		u'pumace10': u'03810'
-	},
-   	u'type': u'Feature'
-	},
+	   	u'properties': {
+			u'bcode': u'36061',
+    			u'cd': u'1 & 2',
+    			u'geoid10': u'3603810',
+    			u'name': u'Battery Park City, Greenwich Village & Soho',
+    			u'namelsad10': u'NYC-Manhattan Community District 1 & 2--Battery Park City, Greenwich Village & Soho PUMA',
+    			u'pumace10': u'03810'
+		},
+   		u'type': u'Feature'
+	}},
+ 	u'type': u'FeatureCollection'
 }

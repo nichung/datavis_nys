@@ -1,12 +1,8 @@
-import itertools
+# Reading data back / when working with STRINGS | method 1
+nyc_json__file = open('/home/nchung/Workbench/datavis-A/PUMAs_nyc__2010/nyc.json')
+nyc_json__str = nyc_json__file.read()
+main_nyc_data = json.loads(nyc_json__str)
 
-"""
-todo: hit the right sub dict 
-"""
-lst = sorted(itertools.chain(nyc_json__data,ny_json__data), key=lambda x:x['features'][1:]['properties']['pumace10'])
-test_join = []
-for k,v in itertools.groupby(lst, key=lambda x:x['geoid10']):
-    d = {}
-    for dct in v:
-        d.update(dct)
-    test_join.append(d)
+# Reading data back / when working with FILES | method 2
+with open('/home/nchung/Workbench/datavis-A/data/cb_2013/ny_key.json', 'r') as f:
+     misc_nyc_data = json.load(f)
